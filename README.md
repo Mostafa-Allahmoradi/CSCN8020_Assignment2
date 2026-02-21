@@ -46,7 +46,7 @@ For a detailed overview of the project requirements, please refer to CSCN8020_As
    pip install -r requirements.txt
    ```
 
-5. **Enjoy the fun  game**
+5. **Enjoy the fun Yellow Drift game**
 
     ```bash
    python yellow_drift.py --episodes 5000 --epsilon-decay --log-file training_log.txt
